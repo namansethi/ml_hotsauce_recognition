@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20190928_204632.jpg</filename>
+	<path>C:\Users\Pruthvi Chivukula\Desktop\windows_v1.8.0\windows_v1.8.0\images\20190928_204632.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hot sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>819</xmin>
+			<ymin>774</ymin>
+			<xmax>2976</xmax>
+			<ymax>1771</ymax>
+		</bndbox>
+	</object>
+</annotation>
