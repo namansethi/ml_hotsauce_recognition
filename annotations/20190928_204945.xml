@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20190928_204945.jpg</filename>
+	<path>C:\Users\Rhys\Documents\C eng C third year\images\20190928_204945.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hot sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>622</ymin>
+			<xmax>2733</xmax>
+			<ymax>1928</ymax>
+		</bndbox>
+	</object>
+</annotation>
